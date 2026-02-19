@@ -1,1 +1,2 @@
-boss, pwtseng, Tseng, Phoebe
+role,NetID,LastName,FirstName
+boss,pwtseng,Tseng,Phoebe
